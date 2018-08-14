@@ -5,7 +5,7 @@
     <updated>2012-08-15T07:01:01+09:00</updated>
     <id>urn:uuid:be4342e2-ff73-363c-a3ed-66e05e977224</id>
     <link rel="related" href="http://www.jma.go.jp/" />
-    <link rel="self" href="http://xml.kishou.go.jp/*/*.xml" />
+    <link rel="self" href="http://xml.kishou.go.jp/*/extra.xml" />
     <link rel="hub" href="http://alert-hub.appspot.com/" />
     <rights>Published by Japan Meteorological Agency</rights>
     <entry>
